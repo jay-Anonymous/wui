@@ -91,9 +91,9 @@
     "classnames": "^2.2.5",
     "focus-trap-react": "^4.0.0",
     "json-loader": "^0.5.7",
-    "prop-types": "^15.6.0",
+    "prop-types": "^15.6.2",
     "react-onclickoutside": "^6.7.1",
-    "react-popper": "^1.0.2"
+    "react-popper": "^2.2.0"
   },
   "scripts": {
     "eslint": "eslint {src,test,docs-site/src}/**/*.{js,jsx} *.js",
