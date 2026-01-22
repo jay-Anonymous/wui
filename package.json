@@ -61,7 +61,7 @@
     "chroma-js": "^2.1.0",
     "classnames": "^2.2.6",
     "highlight.js": "^9.18.5",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.23",
     "numeral": "^2.0.6",
     "prop-types": "^15.6.0",
     "react-ace": "^7.0.5",
